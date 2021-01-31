@@ -1,3 +1,9 @@
+######################################
+########                      ########
+# https://github.com/halilumutyalcin #
+########                      ########
+######################################
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
